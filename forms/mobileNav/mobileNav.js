@@ -5,19 +5,19 @@ hmbMenu.onclick=function(s){
   else {
        switch(s) {
           case "Dessert Voting":
-                // Go to the Overview form
+                // Go to the Dessert Voting form
             ChangeForm(dessertVoting)
             break
           case "Describe You":
-                // Go to the Overview form
+                // Go to the Describe You form
             ChangeForm(describeYou)
             break
           case "Fav Exercises":
-                // Go to the Overview form
+                // Go to the Fav Exercises form
             ChangeForm(favExercises)
             break
           case "Mobile Nav":
-                // Go to the Overview form
+                // Go to the Mobile Nav form
             ChangeForm(mobileNav)
             break
        }  //switch
